@@ -7,14 +7,11 @@ ATLAS_URI=mongodb+srv://<username>:<password>@sandbox.jadwj.mongodb.net/myFirstD
 PORT=5000
   
 # Start server
-
 -cd mern/server
 -npm install
 -npm install -g nodemon
 -nodemon server
-  
 # Start Web server:
-
-  -cd mern/client
-  -npm install
-  -npm start
+-cd mern/client
+-npm install
+-npm start
