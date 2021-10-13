@@ -6,12 +6,12 @@ MERN stack e-commerce store
 ATLAS_URI=mongodb+srv://<username>:<password>@sandbox.jadwj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 PORT=5000
   
-# Start server
--cd mern/server
--npm install
--npm install -g nodemon
--nodemon server
-# Start Web server:
--cd mern/client
--npm install
--npm start
+## Start server
+- cd mern/server
+- npm install
+- npm install -g nodemon
+- nodemon server
+## Start Web server:
+- cd mern/client
+- npm install
+- npm start
